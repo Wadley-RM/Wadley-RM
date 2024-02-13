@@ -1,5 +1,6 @@
 ### Hey 👋
 #### I am Wad
+##### I eat Pizza on Fridays 🍕 
 
 <!--
 **Wadley-RM/Wadley-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
