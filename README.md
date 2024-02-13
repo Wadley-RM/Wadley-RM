@@ -1,5 +1,5 @@
 ### Hey 👋
-#### I am Wad
+### I am Wad 👨🏿‍🎓
 ### I eat Pizza on Fridays 🍕 
 
 <!--
